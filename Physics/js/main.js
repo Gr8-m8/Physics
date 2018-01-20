@@ -142,8 +142,6 @@ class Renderer {
 			renderer.rendObject[i].Rend();
 		}
 
-		//mouse.SetCursorPos(event.clientX - 8, event.clientY - 8);
-
 		for (var i = 0; i < test.length; i++) {
 			test[i].Physics();
 		}
