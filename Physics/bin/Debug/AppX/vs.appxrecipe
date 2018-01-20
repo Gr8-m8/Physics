@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GR8-COM</Machine>
+    <WindowsUser>marti</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8f852f19-4542-4247-b534-6d7381aa6f4a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=marti</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3DD633519465E93483095CD39F06A10E602C8801983CC2EB0C4BC58BEA44117B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8f852f19-4542-4247-b534-6d7381aa6f4a_1.0.0.0_neutral__m1eq83gekd84y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8f852f19-4542-4247-b534-6d7381aa6f4a_m1eq83gekd84y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8f852f19-4542-4247-b534-6d7381aa6f4a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=marti</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-01T16:34:22.906</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-01-01T17:20:38.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-12T20:21:12.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-01-06T10:04:35.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-01-05T11:14:17.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\documents\visual studio 2017\Projects\Physics\Physics\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-01T16:34:22.804</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

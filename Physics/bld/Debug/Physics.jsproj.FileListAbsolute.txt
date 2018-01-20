@@ -1,0 +1,17 @@
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bin\Debug\ReverseMap\resources.pri
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bin\Debug\AppxManifest.xml
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bin\Debug\Physics.build.appxrecipe
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\Physics.jsproj.CoreCompileInputs.cache
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\ResourceHandlingTask.state
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\priconfig.xml
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\priconfig.xml.intermediate
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\layout.resfiles
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\layout.resfiles.intermediate
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\resources.resfiles
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\resources.resfiles.intermediate
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\pri.resfiles
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\pri.resfiles.intermediate
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\qualifiers.txt
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\qualifiers.txt.intermediate
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\ProjectArchitectures.txt

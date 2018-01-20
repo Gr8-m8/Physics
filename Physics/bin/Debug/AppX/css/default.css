@@ -1,0 +1,10 @@
+﻿body {
+    overflow: hidden;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+.canvas {
+    background-color: white;
+    cursor: grab;
+}
