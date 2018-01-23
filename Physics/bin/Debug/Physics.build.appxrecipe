@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>GR8-COM</Machine>
-    <WindowsUser>marti</WindowsUser>
+    <Machine>SSIS-L0167</Machine>
+    <WindowsUser>17mali</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,58 +10,52 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>8f852f19-4542-4247-b534-6d7381aa6f4a</PackageIdentityName>
     <PackageIdentityPublisher>CN=marti</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\bin\Debug\AppX</LayoutDir>
+    <LayoutDir>\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bin\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\index.html">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\SplashScreen.scale-200.png">
       <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\Square150x150Logo.scale-200.png">
       <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\Square44x44Logo.scale-200.png">
       <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\StoreLogo.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\StoreLogo.png">
       <PackagePath>images\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\js\main.js">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\js\main.js">
       <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\css\default.css">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2017\Projects\Physics\Physics\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>

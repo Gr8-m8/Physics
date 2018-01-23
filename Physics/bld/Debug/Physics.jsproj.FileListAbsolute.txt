@@ -15,3 +15,20 @@ c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\q
 c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\qualifiers.txt.intermediate
 c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\marti\documents\visual studio 2017\Projects\Physics\Physics\bld\Debug\ProjectArchitectures.txt
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bin\Debug\ReverseMap\resources.pri
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bin\Debug\AppxManifest.xml
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bin\Debug\Physics.build.appxrecipe
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\Physics.jsproj.CoreCompileInputs.cache
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\ResourceHandlingTask.state
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\priconfig.xml
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\priconfig.xml.intermediate
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\layout.resfiles
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\layout.resfiles.intermediate
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\resources.resfiles
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\resources.resfiles.intermediate
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\pri.resfiles
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\pri.resfiles.intermediate
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\qualifiers.txt
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\qualifiers.txt.intermediate
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+\\fs1.ad.ssis.nu\17mali\Documents\GitHub\Physics\Physics\bld\Debug\ProjectArchitectures.txt
